@@ -4,7 +4,7 @@ Cristopher Luis Jiménez M. and Nicolás Esteban Matus P.
 
 ## Description
 
-This repository contains a jupyter notebook (ann_with_unsw-db15.ipynb) created to train and tests ANNs to detect cybers attacks based on the paper "Towards Developing Network forensic mechanism for Botnet Activities in the IoT based on Machine Learning Techniques" and the dataset UNSW-NB15.
+This repository contains a jupyter notebook (ann_with_unsw-db15.ipynb) created to train and tests ANNs to detect cyber attacks based on the paper "Towards Developing Network forensic mechanism for Botnet Activities in the IoT based on Machine Learning Techniques" and the dataset UNSW-NB15.
 
 - The folder datasets/unsw-nb15 contains the training.csv and testing.csv files that contains the data used to training and testing the ANNs
 - The jupyter notebook will create a folder named "models", which is used to save the ANNs.
