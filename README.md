@@ -1,6 +1,6 @@
 # Authors
 
-Cristopher Luis Jiménez M. and Nicolás Esteban Matus P.
+Cristopher Luis Jiménez M. (@cristopher1 in github) and Nicolás Esteban Matus P. (@3N1CM4 in github)
 
 ## Description
 
