@@ -11,7 +11,7 @@ This repository contains a jupyter notebook (ann_with_unsw-db15.ipynb) created t
 
 ---
 
-## Cites
+## References
 
 1. Moustafa, Nour, and Jill Slay. "UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)." Military Communications and Information Systems Conference (MilCIS), 2015. IEEE, 2015.
 
